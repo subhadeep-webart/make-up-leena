@@ -1,0 +1,88 @@
+@media only screen and (max-width: 1920px) {
+  .banner .text h1 {
+    font-size: 75px;
+}
+.about1 h2 {
+    font-size: 60px;
+}
+.about1 .article {
+    width: 502px;
+    padding: 34px 41px 34px 54px;
+}
+.service-wedding .text p {
+    font-size: 23px;
+}
+.service-wedding .text2 p{
+  font-size: 18px;
+}
+  h2 {
+    font-size: 60px;
+}
+.service-wedding .box p {
+    font-size: 18px;
+}
+ .faq .accordion-button {
+    font-size: 30px;
+}
+}
+
+
+@media only screen and (max-width: 1366px) {
+  .faq .accordion-button {
+    font-size: 28px;
+}
+  .service-wedding .box p {
+    font-size: 16px;
+}
+  h2 {
+    font-size: 54px;
+}
+.service-wedding .text p {
+    font-size: 18px;
+}
+.service-wedding .text2 p{
+   font-size: 18px;
+}
+   .banner .text h1 {
+    font-size: 61px;
+}
+.about1 h2 {
+    font-size: 51px;
+}
+.about1 .article {
+    width: 100%;
+    padding: 34px 39px 22px 33px;
+}
+
+.about1 .article p{
+    font-size: 15px;
+}
+
+}
+
+
+
+@media (max-width: 768px) {
+  .split-layout {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .left-content,
+  .services-grid {
+    width: 100%;
+  }
+
+  .left-content {
+    text-align: center;
+    align-items: center;
+  }
+
+  .services-grid {
+    aspect-ratio: 1 / 1;
+  }
+
+  .service-tile span {
+    font-size: 14px;
+  }
+}
