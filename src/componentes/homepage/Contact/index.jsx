@@ -53,7 +53,7 @@ const Contact = () => {
                       />
                       <span class="input-group-addon">
                         <img
-                          src="assets/image/calender.png"
+                          src="/images/calender.png"
                           alt="calender"
                           loading="lazy"
                           class="img-fluid"
@@ -71,7 +71,7 @@ const Contact = () => {
                       />
                       <span class="input-group-addon">
                         <img
-                          src="assets/image/time.png"
+                          src="/images/time.png"
                           alt="time"
                           loading="lazy"
                           class="img-fluid"
